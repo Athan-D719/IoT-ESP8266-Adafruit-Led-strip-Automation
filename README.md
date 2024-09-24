@@ -2,16 +2,17 @@
 
 Key Features:
 
-Voice-controlled LED strip using Sinric API
-Customizable lighting patterns
-Integration with Alexa
-Easy setup and use
+- Voice-controlled LED strip using Sinric API
+- Customizable lighting patterns
+- Integration with Alexa
+- Easy setup and use
+
 Key Components:
 
-ESP8266 microcontroller
-Sinric API
-C++ programming language for Arduino
-LED strip
+- ESP8266 microcontroller
+- Sinric API
+- C++ programming language for Arduino
+- LED strip
 Results:
 
 Successful implementation of voice-controlled LED strip
