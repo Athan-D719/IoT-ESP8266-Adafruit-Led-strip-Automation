@@ -1,4 +1,4 @@
-# IoT-ESP8266-Adafruit-Led-strip-Automation-
+# IoT-ESP8266-Adafruit-Led-strip-Automation
 
 Key Features:
 
